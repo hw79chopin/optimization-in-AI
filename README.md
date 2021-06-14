@@ -3,3 +3,5 @@
 HW #3
 
 Final exam algorithms
+
+DFS, BFS, A*, Greedy extra
