@@ -1,5 +1,5 @@
 # Optimization in Aritificial Intelligence
-by professor Biswajit Sarkar
+by Prof.Biswajit Sarkar
 
 
 ### Assignment 4
